@@ -1,5 +1,5 @@
 # BMI-Percentiles
-Shiny app focused on calculating a BMI percentile based on given inputs and displaying CDC percentile classifications, with filters for accessibility.
+Shiny app exploring visual design and interactivity.  It calculates a BMI percentile based on given inputs and displays CDC percentile classifications, with filters for accessibility.
 
 <img width="1235" height="901" alt="image" src="https://github.com/user-attachments/assets/b8ac7bd9-3096-4dd2-b347-1f09250c0fde" />
 
